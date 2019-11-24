@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        toolbar.setTitle("tambah foto")
+        toolbar.setTitle("Meetup5 Quiz")
         setSupportActionBar(toolbar)
         supportActionBar?.setDefaultDisplayHomeAsUpEnabled(true)
 
